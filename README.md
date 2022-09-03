@@ -1,5 +1,5 @@
 # moringa-week-1-independent-project
-• A project README that includes:
+
 ## Author
 Project was created by Victor Lang'at
 
